@@ -1,0 +1,14 @@
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\bin\Debug\log.exe.config
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\bin\Debug\log.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\bin\Debug\log.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\obj\Debug\log.csprojResolveAssemblyReference.cache
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\obj\Debug\log.Form1.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\obj\Debug\log.Properties.Resources.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\obj\Debug\log.csproj.GenerateResource.Cache
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\obj\Debug\log.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\obj\Debug\log.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\obj\Debug\log.Form2.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\log\log\obj\Debug\log.Form3.resources
+C:\Users\Tayyab\Desktop\log\log\bin\Debug\log.exe.config
+C:\Users\Tayyab\Desktop\log\log\obj\Debug\log.exe
+C:\Users\Tayyab\Desktop\log\log\obj\Debug\log.pdb
